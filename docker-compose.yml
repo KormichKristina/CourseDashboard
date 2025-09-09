@@ -1,0 +1,24 @@
+
+services:
+  course-service:
+    build:
+      context: ./CourseService/CourseService
+      dockerfile: Dockerfile
+    ports:
+      - "7126:8080"  
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    container_name: CourseServiceDev
+  auth-service:
+    build:
+      context: ./AuthService/AuthService
+      dockerfile: Dockerfile
+    ports:
+      - "7270:8080"  
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    container_name: AuthServiceDev
+    depends_on:
+      - database
+  database:
+    

@@ -1,0 +1,30 @@
+# Бинарные файлы
+**/bin/
+**/obj/
+
+# Файлы систем контроля версий
+**/.git/
+**/.gitignore
+
+# Файлы IDE
+**/.vs/
+**/.vscode/
+**/*.user
+**/*.suo
+
+# Файлы Docker (но сами Dockerfile нужны)
+**/docker-compose.*.yml
+**/.dockerignore
+
+# Файлы пакетов
+**/node_modules/
+**/packages/
+
+# Временные файлы
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Файлы публикации
+publish/
