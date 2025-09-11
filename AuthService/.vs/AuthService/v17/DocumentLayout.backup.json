@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "AuthService\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Properties\\launchSettings.json",
               "RelativeToolTip": "AuthService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-08T13:42:40.934Z",
               "IsPinned": true,
@@ -108,8 +108,7 @@
               "RelativeToolTip": "AuthService\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T06:09:56.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T06:09:56.55Z"
             },
             {
               "$type": "Document",
@@ -169,8 +168,7 @@
               "RelativeToolTip": "AuthService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-26T06:46:14.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T06:46:14.545Z"
             },
             {
               "$type": "Document",

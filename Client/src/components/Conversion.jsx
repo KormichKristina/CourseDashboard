@@ -1,4 +1,4 @@
-import styles from '../assets/Styles.module.css'
+import styles from '../assets/styles.module.css'
 import {useState,useEffect} from 'react'
 import { ConversionRequest } from '../script/Conversion'; 
 

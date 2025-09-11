@@ -1,6 +1,6 @@
 export async function ConversionRequest(baseCode,targetCode,amount) {
 
-    let url=`https://localhost:7126/api/conversion/${baseCode}/${targetCode}/${amount}`
+    let url=`http://localhost:7126/api/conversion/${baseCode}/${targetCode}/${amount}`
     const response = await fetch(url,{
         method:"GET",
         headers: {

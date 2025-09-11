@@ -4,7 +4,7 @@ import { Refresh } from "./Refresh";
 export async function GetMyInfo(accessToken){
 
     let tokenString='Bearer '+accessToken;
-    let response = await fetch('https://localhost:7270/api/me',{
+    let response = await fetch('http://localhost:7270/api/me',{
     method:"GET",
     headers: {
         'Content-Type': 'application/json',

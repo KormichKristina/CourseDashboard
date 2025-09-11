@@ -1,5 +1,5 @@
 export async function Refresh() {
-    let response = await fetch('https://localhost:7270/api/refresh',{
+    let response = await fetch('http://localhost:7270/api/refresh',{
         method:"POST",
         credentials: 'include',
         headers: {

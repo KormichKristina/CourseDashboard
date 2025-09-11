@@ -1,4 +1,4 @@
-import styles from '../assets/Styles.module.css'
+import styles from '../assets/styles.module.css'
 import { GetMyInfo } from '../script/GetUserInfo';
 import { AddCurrency } from '../script/AddCurrency';
 

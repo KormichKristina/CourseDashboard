@@ -4,7 +4,7 @@ export async function LogoutRequest(accessToken) {
 
     
     let tokenString='Bearer '+accessToken;
-    let response = await fetch('https://localhost:7270/api/logout',{
+    let response = await fetch('http://localhost:7270/api/logout',{
     method:"POST",
     credentials: 'include',
     headers: {

@@ -1,4 +1,4 @@
-import styles from "../assets/Styles.module.css"
+import styles from "../assets/styles.module.css"
 import caretUp from '../assets/caret-arrow-up.png';
 import down from '../assets/down.png'
 import minus from '../assets/delete.png'

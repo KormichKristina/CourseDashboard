@@ -1,4 +1,4 @@
-import styles from '../assets/Styles.module.css'
+import styles from '../assets/styles.module.css'
 import { useNavigate } from 'react-router-dom';
 import{SignUp} from '../script/SignUpRequest.js'
 import {useState,useEffect} from 'react'

@@ -1,5 +1,5 @@
 
-import styles from '../assets/Styles.module.css';
+import styles from '../assets/styles.module.css';
 import logo from '../assets/coin.png'; 
 import { LogoutRequest } from '../script/LogoutRequest';
 import { GetMyInfo } from '../script/GetUserInfo';

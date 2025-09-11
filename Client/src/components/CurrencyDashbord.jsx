@@ -1,5 +1,5 @@
 import {useState,useEffect} from 'react'
-import styles from '../assets/Styles.module.css';
+import styles from '../assets/styles.module.css';
 import caretUp from '../assets/caret-arrow-up.png';
 import CurrencyDashbordItem from './CurrencyDashbordItem';
 import {GetCurrencies} from '../script/GetCurrencies.js'

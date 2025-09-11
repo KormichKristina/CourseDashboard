@@ -3,7 +3,7 @@ export async function SignUp(name,password) {
     const data={Name:name,Password:password};
 
     
-    const response = await fetch('https://localhost:7270/api/register',{
+    const response = await fetch('http://localhost:7270/api/register',{
         method:"POST",
         credentials: 'include',
         body:JSON.stringify(data),

@@ -1,7 +1,7 @@
 
 export async function GetCurrencies(baseCode) {
     try{
-        const uri = `https://localhost:7126/api/latest`;
+        const uri = `http://localhost:7126/api/latest`;
         let response= await fetch(uri);
         let data=await response.json();
         return Object.entries(data);

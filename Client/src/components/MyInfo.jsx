@@ -1,5 +1,5 @@
 import { cloneElement, useEffect, useState } from 'react';
-import styles from '../assets/Styles.module.css'
+import styles from '../assets/styles.module.css'
 import { GetMyInfo } from '../script/GetUserInfo';
 import MyCurrenciesItem from './MyCurrenciesItem';
 import { useNavigate } from 'react-router-dom';

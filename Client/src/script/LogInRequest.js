@@ -3,7 +3,7 @@ export async function LogIn(name,password) {
     const data={Name:name,Password:password};
 
     
-    const response = await fetch('https://localhost:7270/api/login',{
+    const response = await fetch('http://localhost:7270/api/login',{
         method:"POST",
         credentials: 'include',
         body:JSON.stringify(data),

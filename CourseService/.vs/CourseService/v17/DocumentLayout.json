@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,8 +61,16 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\appsettings.json",
               "RelativeDocumentMoniker": "CourseService\\appsettings.json",
@@ -70,29 +78,20 @@
               "RelativeToolTip": "CourseService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-10T07:26:36.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T07:26:36.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CourseService\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Properties\\launchSettings.json",
               "RelativeToolTip": "CourseService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-07T13:47:42.124Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -138,7 +137,7 @@
               "RelativeDocumentMoniker": "CourseService\\Controllers\\CourseController.cs",
               "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Controllers\\CourseController.cs",
               "RelativeToolTip": "CourseService\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAwwD4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T13:12:12.732Z",
               "EditorCaption": ""
