@@ -5,42 +5,32 @@ services:
       context: ./CourseService/CourseService
       dockerfile: Dockerfile
     ports:
-      - "7126:7126"  
+      - "7126:8080"  
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
-      - EXCHANGE_RATE={Your API key}
-      - CURRENCY_FREAKS={Your API key}
-      - OPEN_EXCHANGE_RATE={Your API key}
+      - EXCHANGE_RATE=${EXCHANGE_RATE}
+      - CURRENCY_FREAKS=${CURRENCY_FREAKS}
+      - OPEN_EXCHANGE_RATE=${OPEN_EXCHANGE_RATE}
     container_name: CourseServiceDev
   auth-service:
     build:
       context: ./AuthService/AuthService
       dockerfile: Dockerfile
     ports:
-      - "7270:7270"  
+      - "7270:8080"  
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
-      - SECRET_KEY=yoursecretkey
-      - DB_CONNECTION_STRING=yourConnectionString
+      - SECRET_KEY=${SECRET_KEY}
+      - DB_CONNECTION_STRING=Server=${DB_HOST};Port=${DB_PORT};Database=${DB_NAME};Username=${DB_USER};Password=${DB_PASSWORD};
     container_name: AuthServiceDev
     depends_on:
       - database
-  frontend:
-    build:
-      context: ./Client 
-      dockerfile: Dockerfile
-    ports:
-      - "5173:5173" 
-    depends_on:
-      - auth-service
-      - course-service
-    restart: unless-stopped
   database:
     image: postgres:15
     environment:
-      POSTGRES_USER: yourUser          
-      POSTGRES_PASSWORD: yourPassword
-      POSTGRES_DB: yourDb            
+      POSTGRES_USER: ${DB_USER}         
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}           
     volumes:
       - postgres_data:/var/lib/postgresql/data
     ports:

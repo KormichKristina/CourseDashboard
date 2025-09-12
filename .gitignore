@@ -12,7 +12,7 @@ obj/
 .idea/
 *.swp
 *.swo
-
+.env
 
 build/
 dist/
