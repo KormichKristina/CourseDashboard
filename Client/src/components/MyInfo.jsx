@@ -58,18 +58,6 @@ export default function MyInfo(){
         let searchResult=currencies.filter(c=>c.includes(searchInputValue));
         setSearchInputValue(searchResult);
     }
-
-    const ShowSearch=()=>{
-        console.log(searchResults.length);
-        if(searchResults.length!=0&&searchResults[0]!=''){
-            return (
-                <div style={{display:'flex',height:100,justifyContent:'space-between',width:260,alignSelf:'center',alignItems:'end'}}>
-                <input onChange={handleInputChange} placeholder='Search' style={{border:'1px solid #b1b1b1ff',height:30,width:200}} className={`${styles.searchInput} ${styles.montserrat}`}></input>
-                <button onClick={Search} style={{height:35}} className={styles.searchButton}>OK</button>
-                </div>
-            );
-        }
-    }
     return (
         
     <div className={styles.profileContainer}>
@@ -81,9 +69,6 @@ export default function MyInfo(){
                 <input defaultValue={password}readOnly={true}></input>
                 </div>
                 <button onClick={()=>navigate('/add-currency')} className={styles.searchButton} style={{alignSelf:'center',width:120}}>Add a currency</button>
-                {
-                    ShowSearch()
-                }
             </div>
             
         </div>

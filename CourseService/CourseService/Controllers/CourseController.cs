@@ -1,6 +1,7 @@
 ﻿using CourseService.Models;
 using CourseService.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace CourseService.Controllers
 {
@@ -53,13 +54,13 @@ namespace CourseService.Controllers
             return Results.Ok(currencies);
             
         }
-        [HttpGet("conversion/{baseCode}/{targetCode}/{amount:decimal}")]
-        public async Task<IResult> GetConversionRateAsync(string baseCode,string targetCode,decimal amount)
+        [HttpGet("conversion/{codeBase}/{targetCode}/{amount}")]
+        public async Task<IResult> GetConversionRateAsync(string codeBase,string targetCode, decimal amount)
         {
 
             try
             {
-                var result = await exchangeRateApiService.GetConversionResultAsync(baseCode, targetCode, amount);
+                var result = await exchangeRateApiService.GetConversionResultAsync(codeBase, targetCode, amount);
                 return Results.Ok(result);
             }
             catch (Exception)
