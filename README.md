@@ -55,3 +55,25 @@ docker-compose ps
 npm install
 npm run dev
 ```
+## ✨API Endpoints
+
+### AuthService
+
+| Метод | Эндпоинт | Описание | Пример тела запроса |
+| :--- | :--- | :--- | :--- |
+| `POST` | `/api/register` | Регистрация нового пользователя, возвращает Refresh и Access токены | `{"Name": "your name", "Password": "your password"}` |
+| `POST` | `/api/login` | Вход в акаунт, возвращает Refresh и Access токены | `{"Name": "your name", "Password": "your password"}` |
+| `POST` | `/api/refresh` | Возвращает обновленный Access-токен с помощью Refresh-токена в куках | - |
+| `GET` | `/api/me` | Возвращает имя пользователя и названия сохраненных валют **(требует авторизации)** | - |
+| `POST` | `/api/logout` | Выход из акаунта **(требует авторизации)** | - |
+| `POST` | `/api/currency` | Добавление валюты в сохраненные **(требует авторизации)** | `{"CurrencyName": "currencyName"}` |
+| `DELETE` | `/api/currency` | Удаление валюты из списка сохраненных **(требует авторизации)** | `{"CurrencyName": "currencyName"}` |
+
+## CourseService
+
+| Метод | Эндпоинт | Описание | Параметры |
+| :--- | :--- | :--- | :--- |
+| `GET` | `/api/latest` | Возвращает курсы валют (код исходной валюты, код валюты назначения, курс, название валюты назначения, на сколько изменилась валюта назначения) | - |
+| `GET` | `/api/conversion/codeBase/targetCode/amount` | Возвращает результат преобразования валюты | codeBase - исходная валюта, targetCode - валюта назначения, amount - сумма которую нужно конвентировать |
+| `GET` | `/api/history/codeBase` | возвращает историю валюты за 3 дня (код валюты и курс) | codeBase - исходная валюта |
+| `GET` | `/api/code-names` | возвращает список названий валют | - |
