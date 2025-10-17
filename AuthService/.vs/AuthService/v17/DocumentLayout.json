@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\models\\currencyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\currencyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\models\\currencyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\currencyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\services\\irefreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\irefreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AuthService\\Properties\\launchSettings.json",
@@ -87,8 +87,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-08T13:42:40.934Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -100,56 +99,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Program.cs",
               "RelativeDocumentMoniker": "AuthService\\Program.cs",
               "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Program.cs",
               "RelativeToolTip": "AuthService\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T06:09:56.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RefreshToken.cs",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\RefreshToken.cs",
-              "RelativeDocumentMoniker": "AuthService\\Models\\RefreshToken.cs",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\RefreshToken.cs",
-              "RelativeToolTip": "AuthService\\Models\\RefreshToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T10:53:34.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExtensionClass.cs",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Extensions\\ExtensionClass.cs",
-              "RelativeDocumentMoniker": "AuthService\\Extensions\\ExtensionClass.cs",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Extensions\\ExtensionClass.cs",
-              "RelativeToolTip": "AuthService\\Extensions\\ExtensionClass.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAvwCUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T11:55:34.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthSettings.cs",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\AuthSettings.cs",
-              "RelativeDocumentMoniker": "AuthService\\Models\\AuthSettings.cs",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\AuthSettings.cs",
-              "RelativeToolTip": "AuthService\\Models\\AuthSettings.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T06:55:31.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "RefreshTokenService.cs",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Services\\RefreshTokenService.cs",
               "RelativeDocumentMoniker": "AuthService\\Services\\RefreshTokenService.cs",
@@ -161,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\appsettings.json",
               "RelativeDocumentMoniker": "AuthService\\appsettings.json",
@@ -173,7 +136,82 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthService\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AuthService\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:15:39.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\UserRequest.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\UserRequest.cs",
+              "RelativeToolTip": "AuthService\\Models\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:18:33.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\CurrencyRequest.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\CurrencyRequest.cs",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\CurrencyRequest.cs",
+              "RelativeToolTip": "AuthService\\Models\\CurrencyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:40:40.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthSettings.cs",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\AuthSettings.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\AuthSettings.cs",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\AuthSettings.cs",
+              "RelativeToolTip": "AuthService\\Models\\AuthSettings.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:55:31.26Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ExtensionClass.cs",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Extensions\\ExtensionClass.cs",
+              "RelativeDocumentMoniker": "AuthService\\Extensions\\ExtensionClass.cs",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Extensions\\ExtensionClass.cs",
+              "RelativeToolTip": "AuthService\\Extensions\\ExtensionClass.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:55:34.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "AuthService\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:53:34.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "AuthService\\Services\\UserService.cs",
@@ -185,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "AuthService\\Services\\JwtService.cs",
@@ -197,19 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "AuthService\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Controllers\\UserController.cs",
-              "RelativeToolTip": "AuthService\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T06:15:39.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "AuthService\\Services\\IUserService.cs",
@@ -221,19 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CurrencyRequest.cs",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\CurrencyRequest.cs",
-              "RelativeDocumentMoniker": "AuthService\\Models\\CurrencyRequest.cs",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\CurrencyRequest.cs",
-              "RelativeToolTip": "AuthService\\Models\\CurrencyRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:40:40.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MyContext.cs",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Data\\MyContext.cs",
               "RelativeDocumentMoniker": "AuthService\\Data\\MyContext.cs",
@@ -245,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\User.cs",
               "RelativeDocumentMoniker": "AuthService\\Models\\User.cs",
@@ -257,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IRefreshTokenService.cs",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Services\\IRefreshTokenService.cs",
               "RelativeDocumentMoniker": "AuthService\\Services\\IRefreshTokenService.cs",
@@ -266,18 +280,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T11:09:36.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\UserRequest.cs",
-              "RelativeDocumentMoniker": "AuthService\\Models\\UserRequest.cs",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Models\\UserRequest.cs",
-              "RelativeToolTip": "AuthService\\Models\\UserRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:18:33.407Z"
             }
           ]
         }

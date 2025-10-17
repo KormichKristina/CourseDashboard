@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|solutionrelative:authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4343A02-6535-41B6-975A-2DEF2078B81C}|AuthService\\AuthService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\authservice\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -74,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AuthService\\Properties\\launchSettings.json",
@@ -100,15 +100,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Program.cs",
               "RelativeDocumentMoniker": "AuthService\\Program.cs",
               "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\AuthService\\AuthService\\Program.cs",
               "RelativeToolTip": "AuthService\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T06:09:56.55Z"
+              "WhenOpened": "2025-07-26T06:09:56.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

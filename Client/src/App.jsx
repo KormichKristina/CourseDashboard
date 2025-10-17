@@ -5,6 +5,7 @@ import CalculatorPage from './pages/CalculatorPage';
 import ProfilePage from './pages/ProfilePage';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import AddCurrencyPage from './pages/AddCurrencyPage';
+import AboutPage from './pages/AboutPage';
 
 const router=createBrowserRouter([
   {
@@ -28,8 +29,12 @@ const router=createBrowserRouter([
     element:<ProfilePage></ProfilePage>
   },
   {
-    path:'add-currency',
+    path:'/add-currency',
     element:<AddCurrencyPage></AddCurrencyPage>
+  },
+  {
+    path:'/about',
+    element:<AboutPage></AboutPage>
   }
 ]);
 
