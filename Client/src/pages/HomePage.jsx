@@ -5,14 +5,25 @@ import {useState,useEffect} from 'react';
 
 function HomePage(){
 
-  const [isAuth,setIsAuth]=useState(false);
-  useEffect(()=>{
-
-    if(localStorage.length!=0){
-      setIsAuth(true);
-    }
-
-  },[])
+  const accessToken=localStorage.getItem("access");
+    const [isAuth,setIsAuth]=useState(false);
+    useEffect(()=>{
+        
+        async function GetData() {
+            try {
+                await GetMyInfo(accessToken);
+                setIsAuth(true);
+            } catch (error) {
+                setIsAuth(false);
+                console.log(error);
+                
+            }
+            
+        }
+                
+        GetData();
+                
+        },[]);
 
   return (
   <div>

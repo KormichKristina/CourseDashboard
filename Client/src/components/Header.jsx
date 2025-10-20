@@ -6,7 +6,7 @@ import { GetMyInfo } from '../script/GetUserInfo';
 import { useNavigate } from 'react-router-dom';
 import {useState,useEffect} from 'react';
 
-function Header(RequireAuth) {
+function Header(props) {
 
   const navigate = useNavigate();
   
@@ -20,7 +20,7 @@ function Header(RequireAuth) {
   }
   const mainContent=()=>{
     
-    if(!RequireAuth.RequireAuth){
+    if(!props.RequireAuth){
         return(
       <div className={styles.authContainer}>
             <a href='/sign-up' className={styles.montserrat}>Sign up</a>

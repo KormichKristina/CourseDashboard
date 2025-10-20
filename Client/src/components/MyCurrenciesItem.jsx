@@ -1,8 +1,11 @@
 import styles from '../assets/styles.module.css'
 import {DeleteCurrency} from '../script/DeleteCurrency'
 import { GetMyInfo } from '../script/GetUserInfo';
+import { useNavigate } from 'react-router-dom';
 
 export default function MyCurrenciesItem({item,onCurrChanged}){
+
+    const navigate = useNavigate();
 
     const deleteItem=async ()=>{
         let accessToken=localStorage.getItem('access');
@@ -18,7 +21,7 @@ export default function MyCurrenciesItem({item,onCurrChanged}){
         <div className={`${styles.currencyItem} ${styles.montserrat}`}>
                     <p>{item}</p>
                     <div style={{width:150,display:'flex',justifyContent:'space-between'}}>
-                    <button style={{width:70}} className={styles.searchButton} type="button">see hisory</button>
+                    <button style={{width:70}} className={styles.searchButton} onClick={()=>navigate(`/history?currencyName=${item}`)} type="button">see hisory</button>
                     <button style={{width:70}} className={styles.searchButton} onClick={deleteItem} type="button">delete</button>
                     </div>
                     

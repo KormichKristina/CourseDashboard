@@ -6,6 +6,7 @@ import ProfilePage from './pages/ProfilePage';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import AddCurrencyPage from './pages/AddCurrencyPage';
 import AboutPage from './pages/AboutPage';
+import HistoryPage from './pages/HistoryPage';
 
 const router=createBrowserRouter([
   {
@@ -35,6 +36,10 @@ const router=createBrowserRouter([
   {
     path:'/about',
     element:<AboutPage></AboutPage>
+  },
+  {
+    path:'/history',
+    element:<HistoryPage/>
   }
 ]);
 

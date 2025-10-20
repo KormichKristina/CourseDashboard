@@ -32,25 +32,7 @@ namespace CourseService.Controllers
                              let name = symbols.Symbols.Where(s=>s.Key==c.Key).Select(s=>s.Value).FirstOrDefault()
                              let diff=c.Value-historical.Rates.Where(h=>h.Key==c.Key).Select(h=>h.Value).FirstOrDefault()
                              select new Currency { CodeBase = codeBase, MyCode = c.Key, Value = c.Value, Name = name,Diff=diff };
-            
-
-            /*
-            var currencies = new List<Currency> {
-                new Currency { CodeBase = "USD", MyCode = "USD", Value = 1, Name = "Dollar",Diff=0.98333m } ,
-                new Currency { CodeBase = "USD", MyCode = "USD", Value = 1, Name = "Dollar",Diff=-0.98333m },
-                new Currency { CodeBase = "USD", MyCode = "AFD", Value = 1, Name = "Dollar",Diff=0.000m },
-                new Currency { CodeBase = "USD", MyCode = "USD", Value = 1, Name = "Dollar",Diff=-0.98333m },
-                new Currency { CodeBase = "USD", MyCode = "USD", Value = 1, Name = "Dollar",Diff=0.98333m },
-                new Currency { CodeBase = "USD", MyCode = "USD", Value = 1, Name = "Dollar",Diff=-0.98333m },
-                new Currency { CodeBase = "USD", MyCode = "USD", Value = 1, Name = "Dollar",Diff=0.98333m },
-                new Currency { CodeBase = "USD", MyCode = "USD", Value = 1, Name = "Dollar",Diff=-0.98333m },
-                new Currency { CodeBase = "USD", MyCode = "USD", Value = 1, Name = "Dollar",Diff=0.98333m },
-                new Currency { CodeBase = "USD", MyCode = "USD", Value = 1, Name = "Dollar",Diff=-0.98333m },
-                new Currency { CodeBase = "USD", MyCode = "USD", Value = 1, Name = "Dollar",Diff=0.98333m },
-
-            };
-            */
-
+           
             return Results.Ok(currencies);
             
         }
