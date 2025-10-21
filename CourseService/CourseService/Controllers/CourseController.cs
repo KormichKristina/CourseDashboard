@@ -37,18 +37,19 @@ namespace CourseService.Controllers
             
         }
         [HttpGet("conversion/{codeBase}/{targetCode}/{amount}")]
-        public async Task<IResult> GetConversionRateAsync(string codeBase,string targetCode, decimal amount)
+        public async Task<IResult> GetConversionRateAsync(string codeBase,string targetCode,string amount)
         {
 
             try
             {
-                var result = await exchangeRateApiService.GetConversionResultAsync(codeBase, targetCode, amount);
+                var result = await exchangeRateApiService.GetConversionResultAsync(codeBase, targetCode, decimal.Parse(amount));
                 return Results.Ok(result);
             }
             catch (Exception)
             {
                 return Results.BadRequest();
             }
+            
             
         }
         [HttpGet("history/{codeBase}")]

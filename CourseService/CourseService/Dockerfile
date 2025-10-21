@@ -1,7 +1,9 @@
-FROM mcr.microsoft.com/dotnet/sdk:9.0 AS base
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
 WORKDIR /app
 EXPOSE 7126
 EXPOSE 5252
+
+ENV ASPNETCORE_ENVIRONMENT=Development
 
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /src

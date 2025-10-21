@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\services\\exchangerateapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\models\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\models\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C03137A6-7689-4E6D-8BA0-75BDDE347975}|CourseService\\CourseService.csproj|c:\\users\\kpkor\\source\\forasp\\coursedashboard\\courseservice\\courseservice\\services\\openexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,6 +67,93 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CourseService\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CourseService\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:12:12.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExchangeRate.cs",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Models\\ExchangeRate.cs",
+              "RelativeDocumentMoniker": "CourseService\\Models\\ExchangeRate.cs",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Models\\ExchangeRate.cs",
+              "RelativeToolTip": "CourseService\\Models\\ExchangeRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:14:20.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrencySymbols.cs",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Models\\CurrencySymbols.cs",
+              "RelativeDocumentMoniker": "CourseService\\Models\\CurrencySymbols.cs",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Models\\CurrencySymbols.cs",
+              "RelativeToolTip": "CourseService\\Models\\CurrencySymbols.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:36:26.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRateApiService.cs",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Services\\ExchangeRateApiService.cs",
+              "RelativeDocumentMoniker": "CourseService\\Services\\ExchangeRateApiService.cs",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Services\\ExchangeRateApiService.cs",
+              "RelativeToolTip": "CourseService\\Services\\ExchangeRateApiService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAnwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:15:25.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\appsettings.json",
+              "RelativeDocumentMoniker": "CourseService\\appsettings.json",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\appsettings.json",
+              "RelativeToolTip": "CourseService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T07:26:36.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CourseService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CourseService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T13:47:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Program.cs",
+              "RelativeDocumentMoniker": "CourseService\\Program.cs",
+              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Program.cs",
+              "RelativeToolTip": "CourseService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T07:28:33.51Z"
             },
             {
               "$type": "Document",
@@ -82,79 +169,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Program.cs",
-              "RelativeDocumentMoniker": "CourseService\\Program.cs",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Program.cs",
-              "RelativeToolTip": "CourseService\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T07:28:33.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "CourseService\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "CourseService\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T13:12:12.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExchangeRate.cs",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Models\\ExchangeRate.cs",
-              "RelativeDocumentMoniker": "CourseService\\Models\\ExchangeRate.cs",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Models\\ExchangeRate.cs",
-              "RelativeToolTip": "CourseService\\Models\\ExchangeRate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T08:14:20.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CurrencySymbols.cs",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Models\\CurrencySymbols.cs",
-              "RelativeDocumentMoniker": "CourseService\\Models\\CurrencySymbols.cs",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Models\\CurrencySymbols.cs",
-              "RelativeToolTip": "CourseService\\Models\\CurrencySymbols.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T08:36:26.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExchangeRateApiService.cs",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Services\\ExchangeRateApiService.cs",
-              "RelativeDocumentMoniker": "CourseService\\Services\\ExchangeRateApiService.cs",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Services\\ExchangeRateApiService.cs",
-              "RelativeToolTip": "CourseService\\Services\\ExchangeRateApiService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T14:15:25.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CourseService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CourseService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-07T13:47:42.124Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "CurrencyFreaksService.cs",
               "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\Services\\CurrencyFreaksService.cs",
@@ -164,18 +178,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T14:27:44.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\appsettings.json",
-              "RelativeDocumentMoniker": "CourseService\\appsettings.json",
-              "ToolTip": "C:\\Users\\kpkor\\source\\forAsp\\CourseDashboard\\CourseService\\CourseService\\appsettings.json",
-              "RelativeToolTip": "CourseService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-10T07:26:36.379Z"
             },
             {
               "$type": "Document",
